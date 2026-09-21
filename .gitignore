@@ -1,0 +1,106 @@
+# =============================================================================
+# BẢO MẬT DỮ LIỆU & TÀI LIỆU NỘI BỘ (Data Privacy & Asset Protection)
+# =============================================================================
+# Tài liệu đề cương, kỷ yếu, báo cáo NCKH và hình ảnh quy hoạch nội bộ
+*.pdf
+*.docx
+DTHL-BHV.pdf
+*.jpg
+*.jpeg
+1790010696676*
+*.png
+!public/**/*.png
+!public/**/*.svg
+
+# Dữ liệu GIS thô / Dump dữ liệu trung gian
+*.geojson
+public/data/tdmu_campus_gis.geojson
+data/snapshots/
+
+# Cấu hình cục bộ của công cụ AI / hosting
+.openai/
+
+# Báo cáo kiểm tra tạm thời
+docs/live-check.json
+
+# File nguồn 3D dung lượng lớn & Bản vẽ kiến trúc gốc (Revit, Blender, CAD)
+# Chỉ phân phối các file GLB đã Draco nén phục vụ web trong public/models/
+*.blend
+*.blend1
+*.blend[0-9]*
+*.fbx
+*.rvt
+*.dwg
+*.dxf
+*.max
+*.obj
+blender/gxu-campus.blend
+blender/fonts/
+
+# Ảnh chụp kiểm thử và tài liệu kiểm thử hồi quy cũ
+docs/screenshots/
+docs/model-checks/
+
+# =============================================================================
+# DEPENDENCIES & PACKAGE MANAGERS
+# =============================================================================
+/node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# =============================================================================
+# BUILD OUTPUTS & CACHES
+# =============================================================================
+/dist/
+/out/
+/.next/
+/.vinext/
+/.vite/
+/.cache/
+/.turbo/
+/.wrangler/
+/work/
+/outputs/
+.vercel
+next-env.d.ts
+*.tsbuildinfo
+
+# =============================================================================
+# PYTHON & TESTING
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+/coverage/
+.venv/
+venv/
+ENV/
+
+# =============================================================================
+# ENVIRONMENT & SECRETS
+# =============================================================================
+.env
+.env*.local
+*.pem
+*.key
+*.cert
+
+# =============================================================================
+# LOGS & OS ARTIFACTS
+# =============================================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini

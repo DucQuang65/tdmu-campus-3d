@@ -1,0 +1,3085 @@
+[
+  {
+    "id": "way/264456074",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      68.97,
+      311.36
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              72.32,
+              335.43
+            ],
+            [
+              74.49,
+              324.43
+            ],
+            [
+              79.86,
+              298.11
+            ],
+            [
+              81.33,
+              290.67
+            ],
+            [
+              64.07,
+              287.29
+            ],
+            [
+              56.61,
+              325.41
+            ],
+            [
+              65.29,
+              327.11
+            ],
+            [
+              63.97,
+              333.79
+            ],
+            [
+              72.32,
+              335.43
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      56.61,
+      287.29,
+      81.33,
+      335.43
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456074",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/498043018",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      -107.44,
+      -365.81
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -98.34,
+              -354.73
+            ],
+            [
+              -100.67,
+              -377.7
+            ],
+            [
+              -116.53,
+              -376.09
+            ],
+            [
+              -114.78,
+              -358.93
+            ],
+            [
+              -112.33,
+              -359.19
+            ],
+            [
+              -112.02,
+              -356.16
+            ],
+            [
+              -106.53,
+              -356.71
+            ],
+            [
+              -106.25,
+              -353.93
+            ],
+            [
+              -98.34,
+              -354.73
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -116.53,
+      -377.7,
+      -98.34,
+      -353.93
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/498043018",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/498043019",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      -147.34,
+      -362.85
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -162.95,
+              -354.43
+            ],
+            [
+              -164.5,
+              -367.32
+            ],
+            [
+              -131.74,
+              -371.26
+            ],
+            [
+              -130.19,
+              -358.37
+            ],
+            [
+              -162.95,
+              -354.43
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -164.5,
+      -371.26,
+      -130.19,
+      -354.43
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/498043019",
+    "tags": {
+      "building": "church"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1049898981",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      197.48,
+      36.5
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              193.87,
+              39.8
+            ],
+            [
+              199.76,
+              40.82
+            ],
+            [
+              201.09,
+              33.23
+            ],
+            [
+              195.2,
+              32.19
+            ],
+            [
+              193.87,
+              39.8
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      193.87,
+      32.19,
+      201.09,
+      40.82
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1049898981",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1049898982",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      156.24,
+      27.02
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              148.7,
+              30.65
+            ],
+            [
+              162.38,
+              32.68
+            ],
+            [
+              163.77,
+              23.39
+            ],
+            [
+              150.09,
+              21.35
+            ],
+            [
+              148.7,
+              30.65
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      148.7,
+      21.35,
+      163.77,
+      32.68
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1049898982",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1049898983",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      181.18,
+      72.23
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              170.61,
+              74.97
+            ],
+            [
+              190.18,
+              78.39
+            ],
+            [
+              191.74,
+              69.5
+            ],
+            [
+              172.16,
+              66.08
+            ],
+            [
+              170.61,
+              74.97
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      170.61,
+      66.08,
+      191.74,
+      78.39
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1049898983",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203694",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      230.81,
+      -95.58
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              221.18,
+              -101.78
+            ],
+            [
+              219.69,
+              -92.81
+            ],
+            [
+              240.42,
+              -89.37
+            ],
+            [
+              241.92,
+              -98.34
+            ],
+            [
+              221.18,
+              -101.78
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      219.69,
+      -101.78,
+      241.92,
+      -89.37
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203694",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203695",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      211.08,
+      -80.01
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              211.29,
+              -104.06
+            ],
+            [
+              202.35,
+              -57.6
+            ],
+            [
+              210.87,
+              -55.96
+            ],
+            [
+              219.81,
+              -102.41
+            ],
+            [
+              211.29,
+              -104.06
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      202.35,
+      -104.06,
+      219.81,
+      -55.96
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203695",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203696",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      186.35,
+      -103.8
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              169.37,
+              -102.88
+            ],
+            [
+              201.61,
+              -96.29
+            ],
+            [
+              203.33,
+              -104.71
+            ],
+            [
+              171.09,
+              -111.31
+            ],
+            [
+              169.37,
+              -102.88
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      169.37,
+      -111.31,
+      203.33,
+      -96.29
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203696",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203697",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      179.63,
+      -66.37
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              162.62,
+              -65.37
+            ],
+            [
+              195.17,
+              -59.36
+            ],
+            [
+              196.64,
+              -67.37
+            ],
+            [
+              164.11,
+              -73.38
+            ],
+            [
+              162.62,
+              -65.37
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      162.62,
+      -73.38,
+      196.64,
+      -59.36
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203697",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203698",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      226.83,
+      16.96
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              224.16,
+              24.21
+            ],
+            [
+              227.51,
+              24.67
+            ],
+            [
+              229.51,
+              9.71
+            ],
+            [
+              226.16,
+              9.25
+            ],
+            [
+              224.16,
+              24.21
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      224.16,
+      9.25,
+      229.51,
+      24.67
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203698",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203699",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      219.77,
+      17.62
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              215.58,
+              23.14
+            ],
+            [
+              222.8,
+              23.86
+            ],
+            [
+              223.96,
+              12.1
+            ],
+            [
+              216.74,
+              11.39
+            ],
+            [
+              215.58,
+              23.14
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      215.58,
+      11.39,
+      223.96,
+      23.86
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203699",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203700",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      161.45,
+      -34.11
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              165.21,
+              -36.17
+            ],
+            [
+              165.56,
+              -37.74
+            ],
+            [
+              162.84,
+              -38.33
+            ],
+            [
+              162.5,
+              -36.72
+            ],
+            [
+              156.33,
+              -37.98
+            ],
+            [
+              155.15,
+              -32.24
+            ],
+            [
+              166.58,
+              -29.9
+            ],
+            [
+              167.76,
+              -35.64
+            ],
+            [
+              165.21,
+              -36.17
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      155.15,
+      -38.33,
+      167.76,
+      -29.9
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203700",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203701",
+    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
+    "category": "context",
+    "center": [
+      163.87,
+      -9.59
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              157.06,
+              -8.79
+            ],
+            [
+              169.81,
+              -6.16
+            ],
+            [
+              170.68,
+              -10.38
+            ],
+            [
+              157.93,
+              -13.01
+            ],
+            [
+              157.06,
+              -8.79
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      157.06,
+      -13.01,
+      170.68,
+      -6.16
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203701",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1050203702",
+    "name": "Tòa nhà B1 - Khối Đào tạo & Quản lý Sinh viên",
+    "category": "academic",
+    "center": [
+      52.03,
+      29.25
+    ],
+    "height": 17.5,
+    "levels": 5.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1050203702",
+    "polygons": [
+      [
+        [
+          [
+            [
+              42.03,
+              54.59
+            ],
+            [
+              52.41,
+              56.52
+            ],
+            [
+              62.04,
+              4.7
+            ],
+            [
+              47.43,
+              1.98
+            ],
+            [
+              46.31,
+              7.98
+            ],
+            [
+              50.54,
+              8.77
+            ],
+            [
+              42.03,
+              54.59
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      42.03,
+      1.98,
+      62.04,
+      56.52
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203702",
+    "tags": {
+      "building": "university",
+      "building:levels": "5",
+      "name": "B1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503916",
+    "name": "Giảng đường F2",
+    "category": "academic",
+    "center": [
+      24.96,
+      -53.44
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503916",
+    "polygons": [
+      [
+        [
+          [
+            [
+              9.57,
+              -52.47
+            ],
+            [
+              38.69,
+              -46.41
+            ],
+            [
+              40.36,
+              -54.42
+            ],
+            [
+              11.25,
+              -60.48
+            ],
+            [
+              9.57,
+              -52.47
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      9.57,
+      -60.48,
+      40.36,
+      -46.41
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503916",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "F2"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503917",
+    "name": "Giảng đường E2",
+    "category": "academic",
+    "center": [
+      19.18,
+      -41.59
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503917",
+    "polygons": [
+      [
+        [
+          [
+            [
+              3.8,
+              -52.03
+            ],
+            [
+              37.34,
+              -45.5
+            ],
+            [
+              34.54,
+              -31.14
+            ],
+            [
+              1.01,
+              -37.67
+            ],
+            [
+              3.8,
+              -52.03
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      1.01,
+      -52.03,
+      37.34,
+      -31.14
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503917",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "E2"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503918",
+    "name": "Công trình TDMU phụ trợ (Way 1170503918)",
+    "category": "service",
+    "center": [
+      -83.35,
+      187.56
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -73.2,
+              171.77
+            ],
+            [
+              -87.91,
+              169.35
+            ],
+            [
+              -93.5,
+              203.35
+            ],
+            [
+              -78.79,
+              205.76
+            ],
+            [
+              -73.2,
+              171.77
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -93.5,
+      169.35,
+      -73.2,
+      205.76
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503918",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503919",
+    "name": "Tòa nhà K1 - Trung tâm Khởi nghiệp & Hợp tác Doanh nghiệp",
+    "category": "service",
+    "center": [
+      87.94,
+      -161.29
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503919",
+    "polygons": [
+      [
+        [
+          [
+            [
+              67.56,
+              -171.99
+            ],
+            [
+              110.16,
+              -165.03
+            ],
+            [
+              107.95,
+              -150.58
+            ],
+            [
+              65.72,
+              -158.01
+            ],
+            [
+              67.56,
+              -171.99
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      65.72,
+      -171.99,
+      110.16,
+      -150.58
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503919",
+    "tags": {
+      "building": "yes",
+      "building:levels": "2",
+      "name": "K1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503920",
+    "name": "Giảng đường F3",
+    "category": "academic",
+    "center": [
+      -22.38,
+      -64.4
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503920",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -37.48,
+              -59.7
+            ],
+            [
+              -10.38,
+              -54.07
+            ],
+            [
+              -7.27,
+              -69.1
+            ],
+            [
+              -34.36,
+              -74.73
+            ],
+            [
+              -37.48,
+              -59.7
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -37.48,
+      -74.73,
+      -7.27,
+      -54.07
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503920",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "F3"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503922",
+    "name": "Công trình TDMU phụ trợ (Way 1170503922)",
+    "category": "service",
+    "center": [
+      -117.67,
+      194.69
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -131.03,
+              187.96
+            ],
+            [
+              -102.81,
+              193.02
+            ],
+            [
+              -104.32,
+              201.41
+            ],
+            [
+              -132.53,
+              196.36
+            ],
+            [
+              -131.03,
+              187.96
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -132.53,
+      187.96,
+      -102.81,
+      201.41
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503922",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503924",
+    "name": "Hội trường 1 (Đại giảng đường)",
+    "category": "culture",
+    "center": [
+      -76.71,
+      3.72
+    ],
+    "height": 8.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503924",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -84.55,
+              -16.29
+            ],
+            [
+              -62.16,
+              -12.09
+            ],
+            [
+              -68.87,
+              23.73
+            ],
+            [
+              -91.26,
+              19.55
+            ],
+            [
+              -84.55,
+              -16.29
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -91.26,
+      -16.29,
+      -62.16,
+      23.73
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503924",
+    "tags": {
+      "building": "yes",
+      "building:levels": "1",
+      "name": "Hội trường 1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503926",
+    "name": "Giảng đường I1",
+    "category": "academic",
+    "center": [
+      0.44,
+      -172.56
+    ],
+    "height": 17.5,
+    "levels": 5.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503926",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -36.47,
+              -172.35
+            ],
+            [
+              -24.63,
+              -162.85
+            ],
+            [
+              37.34,
+              -172.59
+            ],
+            [
+              36.42,
+              -182.26
+            ],
+            [
+              -36.47,
+              -172.35
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -36.47,
+      -182.26,
+      37.34,
+      -162.85
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503926",
+    "tags": {
+      "building": "university",
+      "building:levels": "5",
+      "name": "I1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503927",
+    "name": "Công trình TDMU phụ trợ (Way 1170503927)",
+    "category": "service",
+    "center": [
+      -113.66,
+      172.06
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -127.98,
+              174.61
+            ],
+            [
+              -101.24,
+              179.63
+            ],
+            [
+              -99.34,
+              169.5
+            ],
+            [
+              -126.08,
+              164.48
+            ],
+            [
+              -127.98,
+              174.61
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -127.98,
+      164.48,
+      -99.34,
+      179.63
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503927",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503928",
+    "name": "Tòa nhà I2 - Trụ sở các Khoa & Viện chuyên ngành",
+    "category": "academic",
+    "center": [
+      -30.41,
+      -136.19
+    ],
+    "height": 14.0,
+    "levels": 4.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503928",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -36.47,
+              -172.35
+            ],
+            [
+              -33.4,
+              -108.93
+            ],
+            [
+              -24.35,
+              -100.04
+            ],
+            [
+              -24.63,
+              -162.85
+            ],
+            [
+              -36.47,
+              -172.35
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -36.47,
+      -172.35,
+      -24.35,
+      -100.04
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503928",
+    "tags": {
+      "building": "university",
+      "building:levels": "4",
+      "name": "I2"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503929",
+    "name": "Tòa nhà A2 - Trung tâm Thư viện & Thí nghiệm",
+    "category": "academic",
+    "center": [
+      -17.27,
+      58.53
+    ],
+    "height": 10.5,
+    "levels": 3.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503929",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -66.69,
+              59.49
+            ],
+            [
+              28.4,
+              77.42
+            ],
+            [
+              32.16,
+              57.49
+            ],
+            [
+              -0.83,
+              51.25
+            ],
+            [
+              0.05,
+              46.58
+            ],
+            [
+              -18.55,
+              43.06
+            ],
+            [
+              -19.45,
+              47.83
+            ],
+            [
+              -62.95,
+              39.63
+            ],
+            [
+              -66.69,
+              59.49
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -66.69,
+      39.63,
+      32.16,
+      77.42
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503929",
+    "tags": {
+      "building": "university",
+      "building:levels": "3",
+      "name": "A2"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503930",
+    "name": "Giảng đường D",
+    "category": "academic",
+    "center": [
+      -19.32,
+      -26.64
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503930",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -42.18,
+              -37.57
+            ],
+            [
+              5.9,
+              -28.99
+            ],
+            [
+              3.53,
+              -15.72
+            ],
+            [
+              -44.55,
+              -24.3
+            ],
+            [
+              -42.18,
+              -37.57
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -44.55,
+      -37.57,
+      5.9,
+      -15.72
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503930",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "D"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503931",
+    "name": "Tòa nhà H2 - Khoa Y Dược",
+    "category": "academic",
+    "center": [
+      92.78,
+      -115.06
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503931",
+    "polygons": [
+      [
+        [
+          [
+            [
+              78.22,
+              -131.37
+            ],
+            [
+              112.18,
+              -125.11
+            ],
+            [
+              107.33,
+              -98.76
+            ],
+            [
+              73.37,
+              -105.02
+            ],
+            [
+              78.22,
+              -131.37
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      73.37,
+      -131.37,
+      112.18,
+      -98.76
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503931",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "H2"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503932",
+    "name": "Tòa nhà F1 - Viện Nghiên cứu & Dãy phòng Giáo sư",
+    "category": "academic",
+    "center": [
+      81.55,
+      -43.74
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503932",
+    "polygons": [
+      [
+        [
+          [
+            [
+              50.6,
+              -56.83
+            ],
+            [
+              114.49,
+              -44.83
+            ],
+            [
+              111.83,
+              -30.66
+            ],
+            [
+              83.07,
+              -36.07
+            ],
+            [
+              83.76,
+              -39.73
+            ],
+            [
+              48.62,
+              -46.33
+            ],
+            [
+              50.6,
+              -56.83
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      48.62,
+      -56.83,
+      114.49,
+      -30.66
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503932",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "F1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503933",
+    "name": "Tòa nhà G - Dịch vụ Sinh viên & Trạm Y tế",
+    "category": "service",
+    "center": [
+      70.83,
+      -74.1
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503933",
+    "polygons": [
+      [
+        [
+          [
+            [
+              54.13,
+              -82.94
+            ],
+            [
+              89.67,
+              -75.64
+            ],
+            [
+              87.66,
+              -65.27
+            ],
+            [
+              51.99,
+              -72.87
+            ],
+            [
+              54.13,
+              -82.94
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      51.99,
+      -82.94,
+      89.67,
+      -65.27
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503933",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "G"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503934",
+    "name": "Tòa nhà H1 - Trung tâm CNTT & Tuyển sinh",
+    "category": "academic",
+    "center": [
+      79.88,
+      -96.81
+    ],
+    "height": 14.0,
+    "levels": 4.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503934",
+    "polygons": [
+      [
+        [
+          [
+            [
+              57.1,
+              -106.95
+            ],
+            [
+              104.76,
+              -98.38
+            ],
+            [
+              102.65,
+              -86.66
+            ],
+            [
+              54.99,
+              -95.22
+            ],
+            [
+              57.1,
+              -106.95
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      54.99,
+      -106.95,
+      104.76,
+      -86.66
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503934",
+    "tags": {
+      "building": "university",
+      "building:levels": "4",
+      "name": "H1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503936",
+    "name": "Giảng đường E3",
+    "category": "academic",
+    "center": [
+      -24.73,
+      -47.06
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503936",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -37.61,
+              -58.63
+            ],
+            [
+              -41.07,
+              -41.33
+            ],
+            [
+              -11.86,
+              -35.49
+            ],
+            [
+              -8.39,
+              -52.79
+            ],
+            [
+              -37.61,
+              -58.63
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -41.07,
+      -58.63,
+      -8.39,
+      -35.49
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503936",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "E3"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1170503937",
+    "name": "Tòa nhà E1 - Khối Giảng đường & Đào tạo Quốc tế",
+    "category": "academic",
+    "center": [
+      78.52,
+      -29.21
+    ],
+    "height": 14.0,
+    "levels": 4.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1170503937",
+    "polygons": [
+      [
+        [
+          [
+            [
+              45.22,
+              -42.03
+            ],
+            [
+              114.21,
+              -28.91
+            ],
+            [
+              111.83,
+              -16.39
+            ],
+            [
+              42.83,
+              -29.51
+            ],
+            [
+              45.22,
+              -42.03
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      42.83,
+      -42.03,
+      114.21,
+      -16.39
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503937",
+    "tags": {
+      "building": "university",
+      "building:levels": "4",
+      "name": "E1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1208276457",
+    "name": "Trường Trung - Tiểu học Pétrus Ký (Cơ sở 2)",
+    "category": "context",
+    "center": [
+      65.11,
+      108.13
+    ],
+    "height": 14.0,
+    "levels": 4.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1208276457",
+    "polygons": [
+      [
+        [
+          [
+            [
+              108.34,
+              90.25
+            ],
+            [
+              101.98,
+              88.59
+            ],
+            [
+              100.35,
+              88.21
+            ],
+            [
+              61.02,
+              80.57
+            ],
+            [
+              57.11,
+              103.93
+            ],
+            [
+              36.33,
+              101.12
+            ],
+            [
+              25.83,
+              99.71
+            ],
+            [
+              21.87,
+              134.02
+            ],
+            [
+              41.71,
+              135.7
+            ],
+            [
+              46.61,
+              109.07
+            ],
+            [
+              103.83,
+              120.59
+            ],
+            [
+              108.34,
+              90.25
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      21.87,
+      80.57,
+      108.34,
+      135.7
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1208276457",
+    "tags": {
+      "addr:city": "Thành phố Thủ Dầu Một",
+      "addr:housenumber": "Số 2",
+      "addr:province": "Tỉnh Bình Dương",
+      "addr:street": "Đường Trần Văn Ơn",
+      "addr:subdistrict": "Phường Phú Hoà",
+      "building": "school",
+      "building:levels": "4",
+      "height": "20",
+      "name": "Trường Trung - Tiểu học Pétrus Ký, Cơ sở 2 mở rộng"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1292553894",
+    "name": "Tòa nhà A1 - Khu Hiệu bộ & Hành chính",
+    "category": "academic",
+    "center": [
+      69.38,
+      84.9
+    ],
+    "height": 10.5,
+    "levels": 3.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1292553894",
+    "polygons": [
+      [
+        [
+          [
+            [
+              102.43,
+              76.01
+            ],
+            [
+              100.35,
+              88.21
+            ],
+            [
+              61.02,
+              80.57
+            ],
+            [
+              57.11,
+              103.93
+            ],
+            [
+              36.33,
+              101.12
+            ],
+            [
+              42.81,
+              65.87
+            ],
+            [
+              102.43,
+              76.01
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      36.33,
+      65.87,
+      102.43,
+      103.93
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553894",
+    "tags": {
+      "building": "university",
+      "name": "A1"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1292553895",
+    "name": "Giảng đường C",
+    "category": "academic",
+    "center": [
+      -3.12,
+      -3.77
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1292553895",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -46.79,
+              -7.17
+            ],
+            [
+              39.06,
+              8.57
+            ],
+            [
+              40.55,
+              0.41
+            ],
+            [
+              5.98,
+              -5.92
+            ],
+            [
+              5.27,
+              -2.01
+            ],
+            [
+              -10.86,
+              -4.98
+            ],
+            [
+              -10.0,
+              -9.65
+            ],
+            [
+              -45.16,
+              -16.11
+            ],
+            [
+              -46.79,
+              -7.17
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -46.79,
+      -16.11,
+      40.55,
+      8.57
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553895",
+    "tags": {
+      "building": "university",
+      "building:levels": "2",
+      "name": "C"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1292553896",
+    "name": "Giảng đường A4",
+    "category": "academic",
+    "center": [
+      -109.66,
+      14.83
+    ],
+    "height": 14.0,
+    "levels": 4.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1292553896",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -112.48,
+              47.33
+            ],
+            [
+              -98.23,
+              -16.04
+            ],
+            [
+              -107.15,
+              -17.66
+            ],
+            [
+              -109.15,
+              -3.55
+            ],
+            [
+              -114.46,
+              -4.74
+            ],
+            [
+              -115.33,
+              -0.92
+            ],
+            [
+              -119.35,
+              16.97
+            ],
+            [
+              -114.92,
+              17.97
+            ],
+            [
+              -121.1,
+              45.4
+            ],
+            [
+              -112.48,
+              47.33
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -121.1,
+      -17.66,
+      -98.23,
+      47.33
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553896",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "A4"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1292553897",
+    "name": "Giảng đường A3",
+    "category": "academic",
+    "center": [
+      -90.81,
+      44.9
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1292553897",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -102.13,
+              38.13
+            ],
+            [
+              -77.87,
+              42.39
+            ],
+            [
+              -79.5,
+              51.67
+            ],
+            [
+              -103.76,
+              47.4
+            ],
+            [
+              -102.13,
+              38.13
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -103.76,
+      38.13,
+      -77.87,
+      51.67
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553897",
+    "tags": {
+      "building": "university",
+      "building:levels": "1",
+      "name": "A3"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1489536455",
+    "name": "Giảng đường I3",
+    "category": "academic",
+    "center": [
+      -64.42,
+      -107.28
+    ],
+    "height": 10.5,
+    "levels": 3.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1489536455",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -104.5,
+              -114.53
+            ],
+            [
+              -33.4,
+              -108.93
+            ],
+            [
+              -24.35,
+              -100.04
+            ],
+            [
+              -94.92,
+              -102.82
+            ],
+            [
+              -104.5,
+              -114.53
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -104.5,
+      -114.53,
+      -24.35,
+      -100.04
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489536455",
+    "tags": {
+      "building": "university",
+      "name": "I3"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1489536459",
+    "name": "Khu tiện ích K23 & Cửa hàng GS25 Cổng 1",
+    "category": "service",
+    "center": [
+      17.76,
+      141.04
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1489536459",
+    "polygons": [
+      [
+        [
+          [
+            [
+              9.69,
+              181.69
+            ],
+            [
+              18.67,
+              100.33
+            ],
+            [
+              25.83,
+              99.71
+            ],
+            [
+              15.46,
+              182.38
+            ],
+            [
+              9.69,
+              181.69
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      9.69,
+      99.71,
+      25.83,
+      182.38
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489536459",
+    "tags": {
+      "building": "university"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1489536460",
+    "name": "Không gian Tự học Mở TDMU",
+    "category": "culture",
+    "center": [
+      -63.32,
+      -56.94
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1489536460",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -77.81,
+              -34.49
+            ],
+            [
+              -70.05,
+              -80.63
+            ],
+            [
+              -48.83,
+              -78.99
+            ],
+            [
+              -58.21,
+              -33.26
+            ],
+            [
+              -77.81,
+              -34.49
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -77.81,
+      -80.63,
+      -48.83,
+      -33.26
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489536460",
+    "tags": {
+      "building": "university",
+      "name": "Khu Tự Học"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1489549162",
+    "name": "Giảng đường I4",
+    "category": "academic",
+    "center": [
+      -105.37,
+      -67.68
+    ],
+    "height": 14.0,
+    "levels": 4.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1489549162",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -105.03,
+              -20.83
+            ],
+            [
+              -94.92,
+              -102.82
+            ],
+            [
+              -104.5,
+              -114.53
+            ],
+            [
+              -115.82,
+              -22.33
+            ],
+            [
+              -105.03,
+              -20.83
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -115.82,
+      -114.53,
+      -94.92,
+      -20.83
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489549162",
+    "tags": {
+      "building": "university",
+      "name": "I4"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551020803",
+    "name": "Bãi giữ xe Trung tâm & GS25 Nam",
+    "category": "service",
+    "center": [
+      14.7,
+      -122.27
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1551020803",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -19.69,
+              -93.1
+            ],
+            [
+              -20.93,
+              -158.83
+            ],
+            [
+              36.18,
+              -168.53
+            ],
+            [
+              36.85,
+              -165.91
+            ],
+            [
+              50.32,
+              -113.05
+            ],
+            [
+              43.59,
+              -76.01
+            ],
+            [
+              6.41,
+              -89.48
+            ],
+            [
+              -19.69,
+              -93.1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -20.93,
+      -168.53,
+      50.32,
+      -76.01
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020803",
+    "tags": {
+      "building": "carport",
+      "name": "Bãi Xe Cổng"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551020804",
+    "name": "Bãi xe Giảng viên & Cán bộ nhân viên",
+    "category": "service",
+    "center": [
+      50.66,
+      -168.86
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1551020804",
+    "polygons": [
+      [
+        [
+          [
+            [
+              37.34,
+              -172.59
+            ],
+            [
+              36.42,
+              -182.26
+            ],
+            [
+              61.06,
+              -173.31
+            ],
+            [
+              64.91,
+              -172.42
+            ],
+            [
+              62.19,
+              -161.93
+            ],
+            [
+              60.04,
+              -155.46
+            ],
+            [
+              50.2,
+              -162.74
+            ],
+            [
+              44.69,
+              -168.39
+            ],
+            [
+              37.34,
+              -172.59
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      36.42,
+      -182.26,
+      64.91,
+      -155.46
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020804",
+    "tags": {
+      "building": "carport",
+      "name": "Xe GV"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551020805",
+    "name": "Nhà để xe phục vụ Cán bộ",
+    "category": "service",
+    "center": [
+      55.19,
+      -138.42
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1551020805",
+    "polygons": [
+      [
+        [
+          [
+            [
+              36.89,
+              -168.47
+            ],
+            [
+              45.07,
+              -161.59
+            ],
+            [
+              59.9,
+              -149.51
+            ],
+            [
+              68.87,
+              -142.31
+            ],
+            [
+              74.2,
+              -141.38
+            ],
+            [
+              67.71,
+              -108.31
+            ],
+            [
+              55.45,
+              -110.45
+            ],
+            [
+              51.81,
+              -111.16
+            ],
+            [
+              50.32,
+              -113.05
+            ],
+            [
+              36.85,
+              -165.91
+            ],
+            [
+              36.18,
+              -168.53
+            ],
+            [
+              36.89,
+              -168.47
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      36.18,
+      -168.53,
+      74.2,
+      -108.31
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020805",
+    "tags": {
+      "building": "carport"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551020806",
+    "name": "Bãi gửi xe & Không gian tự học Cổng 5",
+    "category": "service",
+    "center": [
+      -38.63,
+      121.76
+    ],
+    "height": 3.5,
+    "levels": 1.0,
+    "insideCampus": true,
+    "landmark": "tdmu-1551020806",
+    "polygons": [
+      [
+        [
+          [
+            [
+              -90.17,
+              156.1
+            ],
+            [
+              -77.72,
+              89.96
+            ],
+            [
+              -72.92,
+              74.33
+            ],
+            [
+              -68.92,
+              72.46
+            ],
+            [
+              8.56,
+              85.16
+            ],
+            [
+              12.91,
+              90.76
+            ],
+            [
+              12.64,
+              98.14
+            ],
+            [
+              0.23,
+              169.54
+            ],
+            [
+              -4.58,
+              171.07
+            ],
+            [
+              -28.61,
+              168.84
+            ],
+            [
+              -90.17,
+              156.1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -90.17,
+      72.46,
+      12.91,
+      171.07
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020806",
+    "tags": {
+      "building": "carport",
+      "name": "Nhà Xe Cổng 5"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551101815",
+    "name": "Công trình TDMU phụ trợ (Way 1551101815)",
+    "category": "service",
+    "center": [
+      110.69,
+      -83.94
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              102.27,
+              -73.75
+            ],
+            [
+              106.13,
+              -96.49
+            ],
+            [
+              119.1,
+              -94.33
+            ],
+            [
+              115.16,
+              -71.4
+            ],
+            [
+              102.27,
+              -73.75
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      102.27,
+      -96.49,
+      119.1,
+      -71.4
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551101815",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551101816",
+    "name": "Công trình TDMU phụ trợ (Way 1551101816)",
+    "category": "service",
+    "center": [
+      113.81,
+      -110.3
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              109.18,
+              -98.48
+            ],
+            [
+              113.64,
+              -124.17
+            ],
+            [
+              118.2,
+              -123.29
+            ],
+            [
+              118.04,
+              -108.16
+            ],
+            [
+              118.43,
+              -96.43
+            ],
+            [
+              109.18,
+              -98.48
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      109.18,
+      -124.17,
+      118.43,
+      -96.43
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551101816",
+    "tags": {
+      "building": "yes",
+      "office": "it"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  },
+  {
+    "id": "way/1551106665",
+    "name": "Công trình TDMU phụ trợ (Way 1551106665)",
+    "category": "service",
+    "center": [
+      101.86,
+      -67.21
+    ],
+    "height": 7.0,
+    "levels": 2.0,
+    "insideCampus": true,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              90.14,
+              -64.72
+            ],
+            [
+              92.56,
+              -74.55
+            ],
+            [
+              113.58,
+              -70.24
+            ],
+            [
+              111.82,
+              -59.87
+            ],
+            [
+              90.14,
+              -64.72
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      90.14,
+      -74.55,
+      113.58,
+      -59.87
+    ],
+    "heightBasis": "Dữ liệu quy hoạch TDMU",
+    "facadeBasis": "Đặc trưng hình khối TDMU",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-21T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551106665",
+    "tags": {
+      "building": "university"
+    },
+    "elevation": 0.0,
+    "zone": "central"
+  }
+]

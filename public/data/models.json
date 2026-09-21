@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "chunkSizeMeters": 360,
+  "units": "meters",
+  "axes": {
+    "x": "east",
+    "y": "up",
+    "z": "south"
+  },
+  "zones": [],
+  "landmarks": [],
+  "chunks": []
+}

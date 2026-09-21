@@ -1,0 +1,842 @@
+[
+  {
+    "id": "tdmu-1292553894",
+    "osmId": "way/1292553894",
+    "name": "Tòa nhà A1 - Khu Hiệu bộ & Hành chính",
+    "category": "academic",
+    "center": [
+      69.38,
+      84.9
+    ],
+    "height": 10.5,
+    "elevation": 0.0,
+    "bounds": [
+      36.33,
+      65.87,
+      102.43,
+      103.93
+    ],
+    "description": "Tòa nhà A1 là trung tâm điều hành và khối hành chính của Trường Đại học Thủ Dầu Một (3 tầng), tiếp giáp Cổng 1.",
+    "detail": "Trệt: Phòng Khách 1, Phòng Truyền thông, P. Kế toán, P. Tài chính, P. Hành chính, P. Cơ sở vật chất, P. Tổ chức, Tạp chí Biên tập; Giảng đường A1.101, A1.102. Lầu 1: Ban Giám hiệu (P. Hiệu trưởng, P. Phó Hiệu trưởng), P. Chủ tịch Hội đồng trường, P. Khách. Lầu 2: Trung tâm Dữ liệu (Data Center), P. Kế toán.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553894",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503929",
+    "osmId": "way/1170503929",
+    "name": "Tòa nhà A2 - Trung tâm Thư viện & Thí nghiệm",
+    "category": "academic",
+    "center": [
+      -17.27,
+      58.53
+    ],
+    "height": 10.5,
+    "elevation": 0.0,
+    "bounds": [
+      -66.69,
+      39.63,
+      32.16,
+      77.42
+    ],
+    "description": "Tòa nhà A2 (3 tầng) là trung tâm tri thức của TDMU, nơi đặt Thư viện trường và hệ thống phòng thí nghiệm hiện đại.",
+    "detail": "Trệt: Dãy phòng thí nghiệm A2.101-105 và A2.106-114. Lầu 1: Thư viện, Hội trường 2, Phòng nghiệp vụ, Phòng ngoại văn, phòng đọc A2.203-204. Lầu 2: Thư viện (Phòng đọc sinh viên, Phòng đọc giảng viên). Công trình nghiên cứu ứng dụng mô hình 'Bốn không gian' (Học tập, Gặp gỡ, Biểu đạt, Cảm hứng).",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503929",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-sanco",
+    "osmId": null,
+    "name": "Sân cờ & Quảng trường trung tâm TDMU",
+    "category": "culture",
+    "center": [
+      0.0,
+      22.0
+    ],
+    "height": 12.0,
+    "elevation": 0.0,
+    "bounds": [
+      -25.0,
+      -3.0,
+      25.0,
+      47.0
+    ],
+    "description": "Sân cờ trung tâm và quảng trường sinh hoạt chung của Trường Đại học Thủ Dầu Một.",
+    "detail": "Tọa lạc tại vị trí trung tâm khuôn viên, được bao quanh bởi Tòa A2 (Thư viện), Hội trường 1, Tòa C và Tòa B1. Nơi tổ chức lễ chào cờ đầu tuần, các hội diễn văn nghệ và hoạt động đoàn hội.",
+    "sourceUrl": "https://tdmu.edu.vn",
+    "reference": "tdmu",
+    "distance": 100,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1050203702",
+    "osmId": "way/1050203702",
+    "name": "Tòa nhà B1 - Khối Đào tạo & Quản lý Sinh viên",
+    "category": "academic",
+    "center": [
+      52.03,
+      29.25
+    ],
+    "height": 17.5,
+    "elevation": 0.0,
+    "bounds": [
+      42.03,
+      1.98,
+      62.04,
+      56.52
+    ],
+    "description": "Tòa nhà B1 (5 tầng) nằm ở phía Đông Sân cờ, kết nối trực tiếp với trục Cổng 1.",
+    "detail": "Trệt: Phòng Đào tạo Đại học, Phòng Công tác Sinh viên, Phòng Khoa học. Lầu 1: Dãy phòng học B1.301 - B1.305. Lầu 2: Dãy phòng học B1.401 - B1.405. Lầu 3: Phòng Sản xuất chương trình & Truyền thông. Lầu 4: Phòng Múa & Nghệ thuật biểu diễn.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203702",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503937",
+    "osmId": "way/1170503937",
+    "name": "Tòa nhà E1 - Khối Giảng đường & Đào tạo Quốc tế",
+    "category": "academic",
+    "center": [
+      78.52,
+      -29.21
+    ],
+    "height": 14.0,
+    "elevation": 0.0,
+    "bounds": [
+      42.83,
+      -42.03,
+      114.21,
+      -16.39
+    ],
+    "description": "Tòa nhà E1 (4 tầng) tiếp giáp trục giao thông Cổng 2 và Cổng 3.",
+    "detail": "Trệt: Dãy phòng họp 1-3, Trung tâm Đào tạo Quốc tế, Trung tâm Ngoại ngữ, phòng học E1.201 - E1.205. Lầu 1: E1.206 - E1.210, E1.301 - E1.305. Lầu 2: E1.306 - E1.310, E1.401 - E1.405. Lầu 3: E1.406 - E1.410.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503937",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503917",
+    "osmId": "way/1170503917",
+    "name": "Giảng đường E2",
+    "category": "academic",
+    "center": [
+      19.18,
+      -41.59
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      1.01,
+      -52.03,
+      37.34,
+      -31.14
+    ],
+    "description": "Dãy Giảng đường E2 (1 tầng), nằm giữa E1 và E3.",
+    "detail": "Bố trí các phòng học: E2.101, E2.102, E2.103, E2.104.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503917",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503936",
+    "osmId": "way/1170503936",
+    "name": "Giảng đường E3",
+    "category": "academic",
+    "center": [
+      -24.73,
+      -47.06
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -41.07,
+      -58.63,
+      -8.39,
+      -35.49
+    ],
+    "description": "Dãy Giảng đường E3 (1 tầng), nằm phía Tây cụm giảng đường E.",
+    "detail": "Bố trí các phòng học: E3.101, E3.102, E3.103, E3.104.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503936",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503932",
+    "osmId": "way/1170503932",
+    "name": "Tòa nhà F1 - Viện Nghiên cứu & Dãy phòng Giáo sư",
+    "category": "academic",
+    "center": [
+      81.55,
+      -43.74
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      48.62,
+      -56.83,
+      114.49,
+      -30.66
+    ],
+    "description": "Khu làm việc của các Giáo sư và các đơn vị nghiên cứu sau đại học của TDMU.",
+    "detail": "Bao gồm: Khu làm việc Giáo sư và dãy phòng nghiệp vụ, Viện Đào tạo Sau đại học, Viện Nghiên cứu Đông Nam Bộ, Ban Chuyển đổi số.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503932",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503916",
+    "osmId": "way/1170503916",
+    "name": "Giảng đường F2",
+    "category": "academic",
+    "center": [
+      24.96,
+      -53.44
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      9.57,
+      -60.48,
+      40.36,
+      -46.41
+    ],
+    "description": "Dãy Giảng đường F2 (1 tầng), nằm phía sau dãy E2.",
+    "detail": "Bố trí các phòng học: F2.101, F2.102, F2.103.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503916",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503920",
+    "osmId": "way/1170503920",
+    "name": "Giảng đường F3",
+    "category": "academic",
+    "center": [
+      -22.38,
+      -64.4
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -37.48,
+      -74.73,
+      -7.27,
+      -54.07
+    ],
+    "description": "Dãy Giảng đường F3 (1 tầng), nằm phía sau dãy E3.",
+    "detail": "Bố trí các phòng học: F3.101, F3.102, F3.103.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503920",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503924",
+    "osmId": "way/1170503924",
+    "name": "Hội trường 1 (Đại giảng đường)",
+    "category": "culture",
+    "center": [
+      -76.71,
+      3.72
+    ],
+    "height": 8.5,
+    "elevation": 0.0,
+    "bounds": [
+      -91.26,
+      -16.29,
+      -62.16,
+      23.73
+    ],
+    "description": "Hội trường 1 là đại giảng đường và trung tâm tổ chức sự kiện trọng thể lớn nhất của TDMU.",
+    "detail": "Không gian khán phòng thông thủy lớn, phục vụ các sự kiện cấp trường: Lễ khai giảng, bế giảng, đại hội đại biểu, hội thảo khoa học quốc tế và chương trình giao lưu văn nghệ nghệ thuật.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503924",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1292553897",
+    "osmId": "way/1292553897",
+    "name": "Giảng đường A3",
+    "category": "academic",
+    "center": [
+      -90.81,
+      44.9
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -103.76,
+      38.13,
+      -77.87,
+      51.67
+    ],
+    "description": "Dãy Giảng đường A3 (1 tầng), nằm ở phía Tây tòa A2.",
+    "detail": "Gồm dãy các phòng học thực hành và lý thuyết chuyên đề: A3.101, A3.102, A3.103, A3.104, A3.105.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553897",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1292553896",
+    "osmId": "way/1292553896",
+    "name": "Giảng đường A4",
+    "category": "academic",
+    "center": [
+      -109.66,
+      14.83
+    ],
+    "height": 14.0,
+    "elevation": 0.0,
+    "bounds": [
+      -121.1,
+      -17.66,
+      -98.23,
+      47.33
+    ],
+    "description": "Khối Giảng đường đa năng A4 (4 tầng), chạy dọc theo ranh giới phía Tây của trường.",
+    "detail": "Trệt: A4.101 - A4.111. Lầu 1: A4.201 - A4.214. Lầu 2: A4.301 - A4.314. Lầu 3: A4.401 - A4.414. Phía sau có Phòng Nuôi trồng nấm phục vụ nghiên cứu Vi sinh và Nông nghiệp công nghệ cao.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553896",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503926",
+    "osmId": "way/1170503926",
+    "name": "Giảng đường I1",
+    "category": "academic",
+    "center": [
+      0.44,
+      -172.56
+    ],
+    "height": 17.5,
+    "elevation": 0.0,
+    "bounds": [
+      -36.47,
+      -182.26,
+      37.34,
+      -162.85
+    ],
+    "description": "Tòa Giảng đường quy mô lớn I1 (5 tầng) tọa lạc tại ranh giới phía Nam khuôn viên trường.",
+    "detail": "Trệt: I1.101 - I1.105. Lầu 1: I1.201 - I1.205. Lầu 2: I1.301 - I1.305. Lầu 3: I1.401 - I1.405. Lầu 4: I1.501 - I1.504.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503926",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503930",
+    "osmId": "way/1170503930",
+    "name": "Giảng đường D",
+    "category": "academic",
+    "center": [
+      -19.32,
+      -26.64
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -44.55,
+      -37.57,
+      5.9,
+      -15.72
+    ],
+    "description": "Tòa Giảng đường D (1 tầng), nằm song song phía sau Tòa C.",
+    "detail": "Bố trí dãy phòng học lý thuyết: D1.101, D1.102, D1.103, D1.104, D1.105, D1.106. Hai bên tiếp giáp Không gian tự học mở.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503930",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503933",
+    "osmId": "way/1170503933",
+    "name": "Tòa nhà G - Dịch vụ Sinh viên & Trạm Y tế",
+    "category": "service",
+    "center": [
+      70.83,
+      -74.1
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      51.99,
+      -82.94,
+      89.67,
+      -65.27
+    ],
+    "description": "Tòa nhà G (1 tầng) đối diện Cổng 3, phục vụ công tác y tế, kiểm định chất lượng và đoàn thể.",
+    "detail": "Gồm: Trung tâm Đảm bảo Chất lượng, Trạm Y tế trường, Văn phòng các Câu lạc bộ sinh viên, Dãy phòng nghiệp vụ, Cửa hàng đồ thể dục.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503933",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1292553895",
+    "osmId": "way/1292553895",
+    "name": "Giảng đường C",
+    "category": "academic",
+    "center": [
+      -3.12,
+      -3.77
+    ],
+    "height": 7.0,
+    "elevation": 0.0,
+    "bounds": [
+      -46.79,
+      -16.11,
+      40.55,
+      8.57
+    ],
+    "description": "Tòa Giảng đường C (2 tầng) tọa lạc ngay phía Nam Sân cờ trung tâm.",
+    "detail": "Trệt: Dãy phòng học C1.101, C1.102, C1.103, C1.104. Lầu 1: Phòng Kỹ thuật và các phòng học C1.201, C1.202, C1.203, C1.204.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1292553895",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1489536455",
+    "osmId": "way/1489536455",
+    "name": "Giảng đường I3",
+    "category": "academic",
+    "center": [
+      -64.42,
+      -107.28
+    ],
+    "height": 10.5,
+    "elevation": 0.0,
+    "bounds": [
+      -104.5,
+      -114.53,
+      -24.35,
+      -100.04
+    ],
+    "description": "Tòa Giảng đường I3 (3 tầng) nằm ở góc Tây Nam trường.",
+    "detail": "Trệt: I3.101 - I3.106. Lầu 1: I3.201 - I3.206. Lầu 2: I3.301 - I3.306.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489536455",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1489536459",
+    "osmId": "way/1489536459",
+    "name": "Khu tiện ích K23 & Cửa hàng GS25 Cổng 1",
+    "category": "service",
+    "center": [
+      17.76,
+      141.04
+    ],
+    "height": 7.0,
+    "elevation": 0.0,
+    "bounds": [
+      9.69,
+      99.71,
+      25.83,
+      182.38
+    ],
+    "description": "Dãy tiện ích học đường và phòng học thực hành K23 (K23.101 - K23.203), tích hợp cửa hàng tiện lợi GS 25 Cổng 1.",
+    "detail": "Nằm ngay lối vào Cổng 1, phục vụ nhu cầu ăn uống, mua sắm văn phòng phẩm và phòng tự học nhóm nhanh cho sinh viên.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489536459",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1489549162",
+    "osmId": "way/1489549162",
+    "name": "Giảng đường I4",
+    "category": "academic",
+    "center": [
+      -105.37,
+      -67.68
+    ],
+    "height": 14.0,
+    "elevation": 0.0,
+    "bounds": [
+      -115.82,
+      -114.53,
+      -94.92,
+      -20.83
+    ],
+    "description": "Tòa Giảng đường I4 (4 tầng) chạy dọc theo cánh Tây, tiếp nối với giảng đường I3 và A4.",
+    "detail": "Trệt: I4.107 - I4.113. Lầu 1: I4.207 - I4.214. Lầu 2: I4.307 - I4.314. Lầu 3: I4.407 - I4.414.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489549162",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1551020803",
+    "osmId": "way/1551020803",
+    "name": "Bãi giữ xe Trung tâm & GS25 Nam",
+    "category": "service",
+    "center": [
+      14.7,
+      -122.27
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -20.93,
+      -168.53,
+      50.32,
+      -76.01
+    ],
+    "description": "Bãi giữ xe máy quy mô lớn tại khu vực phía Nam trường, tích hợp cửa hàng tiện lợi GS 25 và khu tự học có mái che.",
+    "detail": "Đáp ứng chỗ gửi xe cho hàng nghìn sinh viên, có lối đi thuận tiện sang các khối giảng đường I1, I2, I3, H1, H2.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020803",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1551020804",
+    "osmId": "way/1551020804",
+    "name": "Bãi xe Giảng viên & Cán bộ nhân viên",
+    "category": "service",
+    "center": [
+      50.66,
+      -168.86
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      36.42,
+      -182.26,
+      64.91,
+      -155.46
+    ],
+    "description": "Khu vực để xe dành riêng cho cán bộ, giảng viên và chuyên gia công tác tại TDMU.",
+    "detail": "Nằm tại góc phía Nam, tiếp giáp Tòa Giảng đường I1 và Tòa nhà K1.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020804",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503934",
+    "osmId": "way/1170503934",
+    "name": "Tòa nhà H1 - Trung tâm CNTT & Tuyển sinh",
+    "category": "academic",
+    "center": [
+      79.88,
+      -96.81
+    ],
+    "height": 14.0,
+    "elevation": 0.0,
+    "bounds": [
+      54.99,
+      -106.95,
+      104.76,
+      -86.66
+    ],
+    "description": "Tòa nhà H1 (4 tầng) nằm trên trục Cổng 3 - Cổng 4, phụ trách CNTT và tuyển sinh.",
+    "detail": "Trệt: H1.101, H1.102, H1.103, Trung tâm Thông tin, Trung tâm Công nghệ Thông tin. Lầu 1: H1.201 - H1.204, Trung tâm Tuyển sinh. Lầu 2: H1.301 - H1.304, Trung tâm Kỹ năng Xã hội. Lầu 3: H1.401 - H1.404.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503934",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503931",
+    "osmId": "way/1170503931",
+    "name": "Tòa nhà H2 - Khoa Y Dược",
+    "category": "academic",
+    "center": [
+      92.78,
+      -115.06
+    ],
+    "height": 7.0,
+    "elevation": 0.0,
+    "bounds": [
+      73.37,
+      -131.37,
+      112.18,
+      -98.76
+    ],
+    "description": "Tòa nhà H2 là cơ sở đào tạo của Khoa Y Dược và phòng làm việc của các Giáo sư, chuyên gia y khoa.",
+    "detail": "Gồm: Văn phòng Khoa Y Dược, Dãy phòng Giáo sư và Chuyên gia, hệ thống phòng học chuyên ngành H2.101, H2.102, H2.103, H2.104.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503931",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503919",
+    "osmId": "way/1170503919",
+    "name": "Tòa nhà K1 - Trung tâm Khởi nghiệp & Hợp tác Doanh nghiệp",
+    "category": "service",
+    "center": [
+      87.94,
+      -161.29
+    ],
+    "height": 7.0,
+    "elevation": 0.0,
+    "bounds": [
+      65.72,
+      -171.99,
+      110.16,
+      -150.58
+    ],
+    "description": "Tòa nhà K1 (2 tầng) nằm tại góc Đông Nam khuôn viên, tiếp giáp Cổng 4.",
+    "detail": "Trệt: Các phòng học K1.101, K1.102, K1.103, K1.104, K1.105, K1.106. Lầu 1: Trung tâm Hợp tác Doanh nghiệp và Khởi nghiệp (BSSC TDMU), phòng K2.201.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503919",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1170503928",
+    "osmId": "way/1170503928",
+    "name": "Tòa nhà I2 - Trụ sở các Khoa & Viện chuyên ngành",
+    "category": "academic",
+    "center": [
+      -30.41,
+      -136.19
+    ],
+    "height": 14.0,
+    "elevation": 0.0,
+    "bounds": [
+      -36.47,
+      -172.35,
+      -24.35,
+      -100.04
+    ],
+    "description": "Tòa nhà I2 (4 tầng) tập trung văn phòng điều hành của các Khoa và Viện đào tạo trọng điểm.",
+    "detail": "Văn phòng các đơn vị: Viện Kỹ thuật Công nghệ, Khoa Kiến trúc, Khoa Khoa học Quản lý, Khoa Kinh tế, Khoa Sư phạm, Khoa Công nghiệp Văn hóa, Khoa Ngoại ngữ, Viện Phát triển Ứng dụng.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1170503928",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-cong1",
+    "osmId": null,
+    "name": "Cổng 1 (Cổng chính Trần Văn Ơn)",
+    "category": "service",
+    "center": [
+      112.0,
+      85.0
+    ],
+    "height": 6.0,
+    "elevation": 0.0,
+    "bounds": [
+      108.0,
+      80.0,
+      116.0,
+      90.0
+    ],
+    "description": "Cổng chính số 1 của Trường Đại học Thủ Dầu Một (Số 06 Trần Văn Ơn).",
+    "detail": "Lối vào chính tiếp cận Tòa nhà Hiệu bộ A1, Tòa B1, Khu tiện ích K23 và Trường Pétrus Ký.",
+    "sourceUrl": "https://tdmu.edu.vn",
+    "reference": "tdmu",
+    "distance": 80,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-cong2",
+    "osmId": null,
+    "name": "Cổng 2 (Đường Trần Văn Ơn)",
+    "category": "service",
+    "center": [
+      118.0,
+      -5.0
+    ],
+    "height": 5.0,
+    "elevation": 0.0,
+    "bounds": [
+      114.0,
+      -10.0,
+      122.0,
+      0.0
+    ],
+    "description": "Cổng 2 Trường Đại học Thủ Dầu Một trên đường Trần Văn Ơn.",
+    "detail": "Lối vào thuận tiện tiếp cận Tòa nhà E1, Tòa C và Khu không gian tự học sinh viên.",
+    "sourceUrl": "https://tdmu.edu.vn",
+    "reference": "tdmu",
+    "distance": 80,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-cong3",
+    "osmId": null,
+    "name": "Cổng 3 (Đường Trần Văn Ơn)",
+    "category": "service",
+    "center": [
+      115.0,
+      -74.0
+    ],
+    "height": 5.0,
+    "elevation": 0.0,
+    "bounds": [
+      111.0,
+      -79.0,
+      119.0,
+      -69.0
+    ],
+    "description": "Cổng 3 Trường Đại học Thủ Dầu Một trên đường Trần Văn Ơn.",
+    "detail": "Lối vào đối diện Tòa nhà G (Trạm Y tế, Đảm bảo chất lượng) và Tòa F1 (Viện Nghiên cứu).",
+    "sourceUrl": "https://tdmu.edu.vn",
+    "reference": "tdmu",
+    "distance": 80,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-cong4",
+    "osmId": null,
+    "name": "Cổng 4 (Đường Trần Văn Ơn)",
+    "category": "service",
+    "center": [
+      110.0,
+      -145.0
+    ],
+    "height": 5.0,
+    "elevation": 0.0,
+    "bounds": [
+      106.0,
+      -150.0,
+      114.0,
+      -140.0
+    ],
+    "description": "Cổng 4 Trường Đại học Thủ Dầu Một trên đường Trần Văn Ơn.",
+    "detail": "Lối vào khu vực phía Nam tiếp cận Tòa H1 (CNTT & Tuyển sinh), Tòa H2 (Khoa Y Dược), Tòa K1 và Bãi giữ xe trung tâm.",
+    "sourceUrl": "https://tdmu.edu.vn",
+    "reference": "tdmu",
+    "distance": 80,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1551020806",
+    "osmId": "way/1551020806",
+    "name": "Bãi gửi xe & Không gian tự học Cổng 5",
+    "category": "service",
+    "center": [
+      -38.63,
+      121.76
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -90.17,
+      72.46,
+      12.91,
+      171.07
+    ],
+    "description": "Bãi giữ xe lớn phía Bắc khuôn viên, tiếp giáp Cổng 5 và Tòa A2 (Thư viện).",
+    "detail": "Khu vực đa chức năng kết hợp bãi đỗ xe máy sinh viên và không gian tự học sinh viên dưới tán cây xanh thoáng mát.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020806",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-cong5",
+    "osmId": null,
+    "name": "Cổng 5 (Cổng phụ phía Bắc)",
+    "category": "service",
+    "center": [
+      -38.0,
+      175.0
+    ],
+    "height": 5.0,
+    "elevation": 0.0,
+    "bounds": [
+      -43.0,
+      170.0,
+      -33.0,
+      180.0
+    ],
+    "description": "Cổng phụ số 5 phía Bắc khuôn viên Trường Đại học Thủ Dầu Một.",
+    "detail": "Lối ra vào dẫn trực tiếp vào Bãi gửi xe Cổng 5, Tòa A2 (Thư viện) và Giảng đường A3, A4.",
+    "sourceUrl": "https://tdmu.edu.vn",
+    "reference": "tdmu",
+    "distance": 80,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1208276457",
+    "osmId": "way/1208276457",
+    "name": "Trường Trung - Tiểu học Pétrus Ký (Cơ sở 2)",
+    "category": "context",
+    "center": [
+      65.11,
+      108.13
+    ],
+    "height": 14.0,
+    "elevation": 0.0,
+    "bounds": [
+      21.87,
+      80.57,
+      108.34,
+      135.7
+    ],
+    "description": "Trường Trung - Tiểu học Pétrus Ký cơ sở 2, công trình giáo dục tiếp giáp phía Bắc khuôn viên TDMU.",
+    "detail": "Số 06 Trần Văn Ơn, Phường Phú Hòa, Thành phố Thủ Dầu Một.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1208276457",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1489536460",
+    "osmId": "way/1489536460",
+    "name": "Không gian Tự học Mở TDMU",
+    "category": "culture",
+    "center": [
+      -63.32,
+      -56.94
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      -77.81,
+      -80.63,
+      -48.83,
+      -33.26
+    ],
+    "description": "Không gian tự học ngoài trời và sinh hoạt nhóm, trang bị bàn ghế thảo luận và hệ thống wifi phủ khắp.",
+    "detail": "Nằm giữa Tòa D, E3 và I4, là không gian mở phục vụ sinh viên nghiên cứu bài vở và thảo luận ngoài giờ lên lớp.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1489536460",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  },
+  {
+    "id": "tdmu-1551020805",
+    "osmId": "way/1551020805",
+    "name": "Nhà để xe phục vụ Cán bộ",
+    "category": "service",
+    "center": [
+      55.19,
+      -138.42
+    ],
+    "height": 3.5,
+    "elevation": 0.0,
+    "bounds": [
+      36.18,
+      -168.53,
+      74.2,
+      -108.31
+    ],
+    "description": "Nhà để xe có mái che kiên cố dành cho cán bộ quản lý và giảng viên cơ hữu.",
+    "detail": "Bảo đảm an ninh, tích hợp hệ thống camera giám sát và trạm kiểm soát ra vào.",
+    "sourceUrl": "https://www.openstreetmap.org/way/1551020805",
+    "reference": "osm",
+    "distance": 120,
+    "zone": "central"
+  }
+]

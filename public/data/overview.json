@@ -1,0 +1,18 @@
+{
+  "snapshotAt": "2026-09-22T00:00:00Z",
+  "buildings": 49,
+  "campusBuildings": 35,
+  "landmarks": 35,
+  "trees": 150,
+  "estimatedHeights": 49,
+  "layers": {
+    "buildings": 49,
+    "vegetation": 150,
+    "roads": 117,
+    "boundary": 1,
+    "water": 0,
+    "sports": 2,
+    "context": 14,
+    "labels": 35
+  }
+}

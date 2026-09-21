@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "tdmuOfficial",
+      "name": "Cổng thông tin điện tử Trường Đại học Thủ Dầu Một",
+      "url": "https://tdmu.edu.vn",
+      "publishedAt": "2024-01-01",
+      "capturedAt": null,
+      "snapshotAt": "2026-09-21T00:00:00Z",
+      "license": "Bản quyền thuộc Trường Đại học Thủ Dầu Một",
+      "use": "Thông tin tổng quan, lịch sử phát triển, cơ cấu tổ chức và sơ đồ khuôn viên.",
+      "note": "Trụ sở chính: Số 06 Trần Văn Ơn, Phường Phú Hòa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương.",
+      "retrievedAt": "2026-09-21"
+    },
+    {
+      "id": "tdmuIntro",
+      "name": "Giới thiệu Tầm nhìn, Sứ mệnh & Quy mô TDMU",
+      "url": "https://tdmu.edu.vn/gioi-thieu",
+      "publishedAt": "2024-01-01",
+      "capturedAt": null,
+      "license": "Bản quyền thuộc Trường Đại học Thủ Dầu Một",
+      "use": "Sứ mệnh đào tạo, cơ cấu các trường, khoa, viện trực thuộc và định hướng phát triển.",
+      "note": "Trường đại học công lập đa ngành theo định hướng ứng dụng, đạt chuẩn kiểm định quốc gia và chuẩn AUN-QA.",
+      "retrievedAt": "2026-09-21"
+    },
+    {
+      "id": "tdmuContact",
+      "name": "Thông tin liên hệ & Cơ sở đào tạo TDMU",
+      "url": "https://tdmu.edu.vn/lien-he",
+      "publishedAt": "2024-01-01",
+      "capturedAt": null,
+      "license": "Bản quyền thuộc Trường Đại học Thủ Dầu Một",
+      "use": "Địa chỉ hành chính, số điện thoại hotline, email và danh bạ phòng ban chức năng.",
+      "note": "Hotline: (0274) 3822 518 - (0274) 3834 348 | Email: bbt@tdmu.edu.vn.",
+      "retrievedAt": "2026-09-21"
+    },
+    {
+      "id": "tdmuAdmissions",
+      "name": "Cổng thông tin Tuyển sinh Đại học & Sau Đại học",
+      "url": "https://tuyensinh.tdmu.edu.vn",
+      "publishedAt": "2024-01-01",
+      "capturedAt": null,
+      "license": "Bản quyền thuộc Trường Đại học Thủ Dầu Một",
+      "use": "Thông tin các ngành đào tạo, các khu giảng đường và cơ sở vật chất phục vụ sinh viên.",
+      "note": "Quy mô đào tạo hơn 20.000 sinh viên và học viên sau đại học.",
+      "retrievedAt": "2026-09-21"
+    },
+    {
+      "id": "tdmuOSM",
+      "name": "Dữ liệu Địa vật & Khối công trình TDMU (OpenStreetMap)",
+      "url": "https://www.openstreetmap.org/way/495488235",
+      "publishedAt": null,
+      "capturedAt": null,
+      "snapshotAt": "2026-09-21T00:00:00Z",
+      "license": "ODbL-1.0",
+      "use": "Đường bao ranh giới khuôn viên (Way 495488235), 49 khối công trình giảng đường và mạng lưới đường nội bộ.",
+      "note": "Hệ tọa độ gốc WGS84: Kinh độ 106.6745, Vĩ độ 10.9804.",
+      "retrievedAt": "2026-09-21"
+    },
+    {
+      "id": "binhduongSDI",
+      "name": "Cổng Thông tin Địa lý Tỉnh Bình Dương (Binh Duong SDI)",
+      "url": "https://vnsdi.mae.gov.vn",
+      "publishedAt": "2025-01-01",
+      "capturedAt": null,
+      "license": "Dữ liệu Không gian Địa lý Quốc gia",
+      "use": "Quy hoạch sử dụng đất và ranh giới hành chính địa bàn TP. Thủ Dầu Một.",
+      "note": "Chuẩn tọa độ quốc gia VN-2000 kinh tuyến trục 105°45' Bình Dương.",
+      "retrievedAt": "2026-09-21"
+    },
+    {
+      "id": "freeGisData",
+      "name": "Dữ liệu GIS Ranh giới Hành chính Việt Nam (ThS. Nguyễn Duy Liêm)",
+      "url": "https://github.com/nguyenduy1133/Free-GIS-Data",
+      "publishedAt": "2025-07-10",
+      "capturedAt": null,
+      "license": "CC BY-SA 4.0 / Public Use",
+      "use": "Địa giới hành chính chuẩn mực quốc gia, bao gồm đầy đủ Quần đảo Hoàng Sa và Trường Sa.",
+      "note": "Đảm bảo tuân thủ nghiêm ngặt Luật Đo đạc và Bản đồ Việt Nam.",
+      "retrievedAt": "2026-09-21"
+    }
+  ]
+}
