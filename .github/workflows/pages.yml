@@ -15,7 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pages: read
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -24,12 +25,14 @@ jobs:
           cache: npm
       - uses: actions/configure-pages@v5
         id: pages
+        with:
+          enablement: true
         if: github.event_name != 'pull_request'
       - run: npm ci
       - run: npm run typecheck
       - run: npm run build:pages
         env:
-          PAGES_BASE_PATH: ${{ github.event_name == 'pull_request' && '/tdu-campus-3d' || steps.pages.outputs.base_path }}
+          PAGES_BASE_PATH: ${{ github.event_name == 'pull_request' && '/tdmu-campus-3d' || steps.pages.outputs.base_path }}
       - uses: actions/upload-pages-artifact@v3
         if: github.event_name != 'pull_request'
         with:
