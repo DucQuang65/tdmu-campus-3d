@@ -1,851 +1,5 @@
 [
   {
-    "id": "way/264456074",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      68.97,
-      311.36
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              72.32,
-              335.43
-            ],
-            [
-              74.49,
-              324.43
-            ],
-            [
-              79.86,
-              298.11
-            ],
-            [
-              81.33,
-              290.67
-            ],
-            [
-              64.07,
-              287.29
-            ],
-            [
-              56.61,
-              325.41
-            ],
-            [
-              65.29,
-              327.11
-            ],
-            [
-              63.97,
-              333.79
-            ],
-            [
-              72.32,
-              335.43
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      56.61,
-      287.29,
-      81.33,
-      335.43
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/264456074",
-    "tags": {
-      "building": "industrial"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/498043018",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      -107.44,
-      -365.81
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              -98.34,
-              -354.73
-            ],
-            [
-              -100.67,
-              -377.7
-            ],
-            [
-              -116.53,
-              -376.09
-            ],
-            [
-              -114.78,
-              -358.93
-            ],
-            [
-              -112.33,
-              -359.19
-            ],
-            [
-              -112.02,
-              -356.16
-            ],
-            [
-              -106.53,
-              -356.71
-            ],
-            [
-              -106.25,
-              -353.93
-            ],
-            [
-              -98.34,
-              -354.73
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      -116.53,
-      -377.7,
-      -98.34,
-      -353.93
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/498043018",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/498043019",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      -147.34,
-      -362.85
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              -162.95,
-              -354.43
-            ],
-            [
-              -164.5,
-              -367.32
-            ],
-            [
-              -131.74,
-              -371.26
-            ],
-            [
-              -130.19,
-              -358.37
-            ],
-            [
-              -162.95,
-              -354.43
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      -164.5,
-      -371.26,
-      -130.19,
-      -354.43
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/498043019",
-    "tags": {
-      "building": "church"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1049898981",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      197.48,
-      36.5
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              193.87,
-              39.8
-            ],
-            [
-              199.76,
-              40.82
-            ],
-            [
-              201.09,
-              33.23
-            ],
-            [
-              195.2,
-              32.19
-            ],
-            [
-              193.87,
-              39.8
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      193.87,
-      32.19,
-      201.09,
-      40.82
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1049898981",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1049898982",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      156.24,
-      27.02
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              148.7,
-              30.65
-            ],
-            [
-              162.38,
-              32.68
-            ],
-            [
-              163.77,
-              23.39
-            ],
-            [
-              150.09,
-              21.35
-            ],
-            [
-              148.7,
-              30.65
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      148.7,
-      21.35,
-      163.77,
-      32.68
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1049898982",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1049898983",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      181.18,
-      72.23
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              170.61,
-              74.97
-            ],
-            [
-              190.18,
-              78.39
-            ],
-            [
-              191.74,
-              69.5
-            ],
-            [
-              172.16,
-              66.08
-            ],
-            [
-              170.61,
-              74.97
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      170.61,
-      66.08,
-      191.74,
-      78.39
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1049898983",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203694",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      230.81,
-      -95.58
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              221.18,
-              -101.78
-            ],
-            [
-              219.69,
-              -92.81
-            ],
-            [
-              240.42,
-              -89.37
-            ],
-            [
-              241.92,
-              -98.34
-            ],
-            [
-              221.18,
-              -101.78
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      219.69,
-      -101.78,
-      241.92,
-      -89.37
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203694",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203695",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      211.08,
-      -80.01
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              211.29,
-              -104.06
-            ],
-            [
-              202.35,
-              -57.6
-            ],
-            [
-              210.87,
-              -55.96
-            ],
-            [
-              219.81,
-              -102.41
-            ],
-            [
-              211.29,
-              -104.06
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      202.35,
-      -104.06,
-      219.81,
-      -55.96
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203695",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203696",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      186.35,
-      -103.8
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              169.37,
-              -102.88
-            ],
-            [
-              201.61,
-              -96.29
-            ],
-            [
-              203.33,
-              -104.71
-            ],
-            [
-              171.09,
-              -111.31
-            ],
-            [
-              169.37,
-              -102.88
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      169.37,
-      -111.31,
-      203.33,
-      -96.29
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203696",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203697",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      179.63,
-      -66.37
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              162.62,
-              -65.37
-            ],
-            [
-              195.17,
-              -59.36
-            ],
-            [
-              196.64,
-              -67.37
-            ],
-            [
-              164.11,
-              -73.38
-            ],
-            [
-              162.62,
-              -65.37
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      162.62,
-      -73.38,
-      196.64,
-      -59.36
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203697",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203698",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      226.83,
-      16.96
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              224.16,
-              24.21
-            ],
-            [
-              227.51,
-              24.67
-            ],
-            [
-              229.51,
-              9.71
-            ],
-            [
-              226.16,
-              9.25
-            ],
-            [
-              224.16,
-              24.21
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      224.16,
-      9.25,
-      229.51,
-      24.67
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203698",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203699",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      219.77,
-      17.62
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              215.58,
-              23.14
-            ],
-            [
-              222.8,
-              23.86
-            ],
-            [
-              223.96,
-              12.1
-            ],
-            [
-              216.74,
-              11.39
-            ],
-            [
-              215.58,
-              23.14
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      215.58,
-      11.39,
-      223.96,
-      23.86
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203699",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203700",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      161.45,
-      -34.11
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              165.21,
-              -36.17
-            ],
-            [
-              165.56,
-              -37.74
-            ],
-            [
-              162.84,
-              -38.33
-            ],
-            [
-              162.5,
-              -36.72
-            ],
-            [
-              156.33,
-              -37.98
-            ],
-            [
-              155.15,
-              -32.24
-            ],
-            [
-              166.58,
-              -29.9
-            ],
-            [
-              167.76,
-              -35.64
-            ],
-            [
-              165.21,
-              -36.17
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      155.15,
-      -38.33,
-      167.76,
-      -29.9
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203700",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
-    "id": "way/1050203701",
-    "name": "Khu phố phụ cận TDMU (Đường Trần Văn Ơn)",
-    "category": "context",
-    "center": [
-      163.87,
-      -9.59
-    ],
-    "height": 7.0,
-    "levels": 2.0,
-    "insideCampus": false,
-    "landmark": null,
-    "polygons": [
-      [
-        [
-          [
-            [
-              157.06,
-              -8.79
-            ],
-            [
-              169.81,
-              -6.16
-            ],
-            [
-              170.68,
-              -10.38
-            ],
-            [
-              157.93,
-              -13.01
-            ],
-            [
-              157.06,
-              -8.79
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      157.06,
-      -13.01,
-      170.68,
-      -6.16
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1050203701",
-    "tags": {
-      "building": "yes"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
     "id": "way/1050203702",
     "name": "Tòa nhà B1 - Khối Đào tạo & Quản lý Sinh viên",
     "category": "academic",
@@ -1993,99 +1147,6 @@
     "zone": "central"
   },
   {
-    "id": "way/1208276457",
-    "name": "Trường Trung - Tiểu học Pétrus Ký (Cơ sở 2)",
-    "category": "context",
-    "center": [
-      65.11,
-      108.13
-    ],
-    "height": 14.0,
-    "levels": 4.0,
-    "insideCampus": true,
-    "landmark": "tdmu-1208276457",
-    "polygons": [
-      [
-        [
-          [
-            [
-              108.34,
-              90.25
-            ],
-            [
-              101.98,
-              88.59
-            ],
-            [
-              100.35,
-              88.21
-            ],
-            [
-              61.02,
-              80.57
-            ],
-            [
-              57.11,
-              103.93
-            ],
-            [
-              36.33,
-              101.12
-            ],
-            [
-              25.83,
-              99.71
-            ],
-            [
-              21.87,
-              134.02
-            ],
-            [
-              41.71,
-              135.7
-            ],
-            [
-              46.61,
-              109.07
-            ],
-            [
-              103.83,
-              120.59
-            ],
-            [
-              108.34,
-              90.25
-            ]
-          ]
-        ]
-      ]
-    ],
-    "bounds": [
-      21.87,
-      80.57,
-      108.34,
-      135.7
-    ],
-    "heightBasis": "Dữ liệu quy hoạch TDMU",
-    "facadeBasis": "Đặc trưng hình khối TDMU",
-    "osmVersion": 1,
-    "osmEditedAt": "2026-09-21T00:00:00Z",
-    "sourceUrl": "https://www.openstreetmap.org/way/1208276457",
-    "tags": {
-      "addr:city": "Thành phố Thủ Dầu Một",
-      "addr:housenumber": "Số 2",
-      "addr:province": "Tỉnh Bình Dương",
-      "addr:street": "Đường Trần Văn Ơn",
-      "addr:subdistrict": "Phường Phú Hoà",
-      "building": "school",
-      "building:levels": "4",
-      "height": "20",
-      "name": "Trường Trung - Tiểu học Pétrus Ký, Cơ sở 2 mở rộng"
-    },
-    "elevation": 0.0,
-    "zone": "central"
-  },
-  {
     "id": "way/1292553894",
     "name": "Tòa nhà A1 - Khu Hiệu bộ & Hành chính",
     "category": "academic",
@@ -3081,5 +2142,1649 @@
     },
     "elevation": 0.0,
     "zone": "central"
+  },
+  {
+    "id": "way/264456067",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      177.53,
+      401.78
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              207.94,
+              417.32
+            ],
+            [
+              211.72,
+              400.73
+            ],
+            [
+              147.11,
+              386.25
+            ],
+            [
+              143.34,
+              402.84
+            ],
+            [
+              207.94,
+              417.32
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      143.34,
+      386.25,
+      211.72,
+      417.32
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456067",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456068",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      180.77,
+      370.39
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              148.08,
+              378.24
+            ],
+            [
+              152.97,
+              354.94
+            ],
+            [
+              153.79,
+              351.01
+            ],
+            [
+              213.46,
+              362.87
+            ],
+            [
+              208.23,
+              389.77
+            ],
+            [
+              148.08,
+              378.24
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      148.08,
+      351.01,
+      213.46,
+      389.77
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456068",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456069",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      188.46,
+      349.22
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              153.79,
+              351.01
+            ],
+            [
+              157.16,
+              334.31
+            ],
+            [
+              223.13,
+              347.41
+            ],
+            [
+              219.77,
+              364.12
+            ],
+            [
+              213.46,
+              362.87
+            ],
+            [
+              153.79,
+              351.01
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      153.79,
+      334.31,
+      223.13,
+      364.12
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456069",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456070",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      192.64,
+      315.1
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              220.9,
+              335.29
+            ],
+            [
+              226.69,
+              307.87
+            ],
+            [
+              164.4,
+              294.9
+            ],
+            [
+              158.6,
+              322.32
+            ],
+            [
+              220.9,
+              335.29
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      158.6,
+      294.9,
+      226.69,
+      335.29
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456070",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456071",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      127.8,
+      362.68
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              133.19,
+              400.49
+            ],
+            [
+              149.7,
+              331.56
+            ],
+            [
+              145.33,
+              328.56
+            ],
+            [
+              120.73,
+              324.87
+            ],
+            [
+              105.9,
+              394.8
+            ],
+            [
+              133.19,
+              400.49
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      105.9,
+      324.87,
+      149.7,
+      400.49
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456071",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456072",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      80.43,
+      355.44
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              94.05,
+              395.5
+            ],
+            [
+              110.98,
+              326.0
+            ],
+            [
+              66.81,
+              315.38
+            ],
+            [
+              49.88,
+              384.89
+            ],
+            [
+              94.05,
+              395.5
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      49.88,
+      315.38,
+      110.98,
+      395.5
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456072",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456073",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      120.79,
+      299.36
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              152.85,
+              320.13
+            ],
+            [
+              158.67,
+              294.05
+            ],
+            [
+              88.3,
+              278.58
+            ],
+            [
+              82.92,
+              304.73
+            ],
+            [
+              152.85,
+              320.13
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      82.92,
+      278.58,
+      158.67,
+      320.13
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456073",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456074",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      77.4,
+      291.75
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              80.75,
+              315.66
+            ],
+            [
+              82.92,
+              304.73
+            ],
+            [
+              88.3,
+              278.58
+            ],
+            [
+              89.77,
+              271.18
+            ],
+            [
+              72.5,
+              267.83
+            ],
+            [
+              65.03,
+              305.7
+            ],
+            [
+              73.71,
+              307.39
+            ],
+            [
+              72.4,
+              314.03
+            ],
+            [
+              80.75,
+              315.66
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      65.03,
+      267.83,
+      89.77,
+      315.66
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456074",
+    "tags": {
+      "building": "industrial"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/264456075",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      120.55,
+      401.71
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              141.07,
+              409.1
+            ],
+            [
+              141.84,
+              402.0
+            ],
+            [
+              133.19,
+              400.49
+            ],
+            [
+              105.9,
+              394.8
+            ],
+            [
+              100.04,
+              394.32
+            ],
+            [
+              99.26,
+              401.8
+            ],
+            [
+              141.07,
+              409.1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      99.26,
+      394.32,
+      141.84,
+      409.1
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/264456075",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/498043018",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      -99.16,
+      -381.13
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -90.06,
+              -370.13
+            ],
+            [
+              -92.38,
+              -392.94
+            ],
+            [
+              -108.25,
+              -391.35
+            ],
+            [
+              -106.5,
+              -374.3
+            ],
+            [
+              -104.05,
+              -374.55
+            ],
+            [
+              -103.75,
+              -371.54
+            ],
+            [
+              -98.25,
+              -372.09
+            ],
+            [
+              -97.97,
+              -369.33
+            ],
+            [
+              -90.06,
+              -370.13
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -108.25,
+      -392.94,
+      -90.06,
+      -369.33
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/498043018",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/498043019",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      -139.1,
+      -378.19
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -154.72,
+              -369.83
+            ],
+            [
+              -156.27,
+              -382.64
+            ],
+            [
+              -123.48,
+              -386.55
+            ],
+            [
+              -121.93,
+              -373.74
+            ],
+            [
+              -154.72,
+              -369.83
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -156.27,
+      -386.55,
+      -121.93,
+      -369.83
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/498043019",
+    "tags": {
+      "building": "church"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1049898981",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      206.01,
+      18.64
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              202.4,
+              21.9
+            ],
+            [
+              208.29,
+              22.92
+            ],
+            [
+              209.63,
+              15.37
+            ],
+            [
+              203.73,
+              14.35
+            ],
+            [
+              202.4,
+              21.9
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      202.4,
+      14.35,
+      209.63,
+      22.92
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1049898981",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1049898982",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      164.74,
+      9.2
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              157.19,
+              12.81
+            ],
+            [
+              170.89,
+              14.83
+            ],
+            [
+              172.28,
+              5.6
+            ],
+            [
+              158.58,
+              3.57
+            ],
+            [
+              157.19,
+              12.81
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      157.19,
+      3.57,
+      172.28,
+      14.83
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1049898982",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1049898983",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      189.69,
+      54.14
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              179.12,
+              56.85
+            ],
+            [
+              198.71,
+              60.25
+            ],
+            [
+              200.26,
+              51.41
+            ],
+            [
+              180.68,
+              48.02
+            ],
+            [
+              179.12,
+              56.85
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      179.12,
+      48.02,
+      200.26,
+      60.25
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1049898983",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203694",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      239.37,
+      -112.61
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              229.73,
+              -118.78
+            ],
+            [
+              228.24,
+              -109.86
+            ],
+            [
+              248.99,
+              -106.44
+            ],
+            [
+              250.49,
+              -115.36
+            ],
+            [
+              229.73,
+              -118.78
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      228.24,
+      -118.78,
+      250.49,
+      -106.44
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203694",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203695",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      219.62,
+      -97.15
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              219.83,
+              -121.05
+            ],
+            [
+              210.88,
+              -74.88
+            ],
+            [
+              219.42,
+              -73.25
+            ],
+            [
+              228.36,
+              -119.41
+            ],
+            [
+              219.83,
+              -121.05
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      210.88,
+      -121.05,
+      228.36,
+      -73.25
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203695",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203696",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      194.88,
+      -120.78
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              177.88,
+              -119.87
+            ],
+            [
+              210.15,
+              -113.32
+            ],
+            [
+              211.87,
+              -121.69
+            ],
+            [
+              179.6,
+              -128.25
+            ],
+            [
+              177.88,
+              -119.87
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      177.88,
+      -128.25,
+      211.87,
+      -113.32
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203696",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203697",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      188.16,
+      -83.59
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              171.13,
+              -82.6
+            ],
+            [
+              203.7,
+              -76.62
+            ],
+            [
+              205.18,
+              -84.59
+            ],
+            [
+              172.62,
+              -90.56
+            ],
+            [
+              171.13,
+              -82.6
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      171.13,
+      -90.56,
+      205.18,
+      -76.62
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203697",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203698",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      235.4,
+      -0.79
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              232.72,
+              6.41
+            ],
+            [
+              236.07,
+              6.87
+            ],
+            [
+              238.08,
+              -8.0
+            ],
+            [
+              234.72,
+              -8.45
+            ],
+            [
+              232.72,
+              6.41
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      232.72,
+      -8.45,
+      238.08,
+      6.87
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203698",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203699",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      228.32,
+      -0.14
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              224.13,
+              5.35
+            ],
+            [
+              231.36,
+              6.06
+            ],
+            [
+              232.52,
+              -5.62
+            ],
+            [
+              225.29,
+              -6.33
+            ],
+            [
+              224.13,
+              5.35
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      224.13,
+      -6.33,
+      232.52,
+      6.06
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203699",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203700",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      169.96,
+      -51.54
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              173.72,
+              -53.58
+            ],
+            [
+              174.07,
+              -55.14
+            ],
+            [
+              171.35,
+              -55.73
+            ],
+            [
+              171.01,
+              -54.14
+            ],
+            [
+              164.83,
+              -55.39
+            ],
+            [
+              163.65,
+              -49.68
+            ],
+            [
+              175.09,
+              -47.35
+            ],
+            [
+              176.27,
+              -53.06
+            ],
+            [
+              173.72,
+              -53.58
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      163.65,
+      -55.73,
+      176.27,
+      -47.35
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203700",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050203701",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      172.38,
+      -27.16
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              165.56,
+              -26.38
+            ],
+            [
+              178.32,
+              -23.76
+            ],
+            [
+              179.19,
+              -27.95
+            ],
+            [
+              166.44,
+              -30.57
+            ],
+            [
+              165.56,
+              -26.38
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      165.56,
+      -30.57,
+      179.19,
+      -23.76
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050203701",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050218532",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      -385.38,
+      -383.97
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -381.03,
+              -380.51
+            ],
+            [
+              -381.81,
+              -388.21
+            ],
+            [
+              -389.74,
+              -387.43
+            ],
+            [
+              -388.96,
+              -379.73
+            ],
+            [
+              -381.03,
+              -380.51
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -389.74,
+      -388.21,
+      -381.03,
+      -379.73
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050218532",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050218533",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      -320.09,
+      -433.54
+    ],
+    "height": 11.0,
+    "levels": 3.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -322.01,
+              -417.55
+            ],
+            [
+              -312.89,
+              -419.11
+            ],
+            [
+              -318.16,
+              -449.53
+            ],
+            [
+              -327.29,
+              -447.98
+            ],
+            [
+              -322.01,
+              -417.55
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -327.29,
+      -449.53,
+      -312.89,
+      -417.55
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050218533",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050218534",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      -359.14,
+      -429.65
+    ],
+    "height": 14.4,
+    "levels": 4.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -360.29,
+              -421.77
+            ],
+            [
+              -354.76,
+              -422.98
+            ],
+            [
+              -357.99,
+              -437.53
+            ],
+            [
+              -363.52,
+              -436.33
+            ],
+            [
+              -360.29,
+              -421.77
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -363.52,
+      -437.53,
+      -354.76,
+      -421.77
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050218534",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1050242013",
+    "name": "Khu phố phụ cận TDMU",
+    "category": "context",
+    "center": [
+      -429.86,
+      -250.64
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -431.56,
+              -245.95
+            ],
+            [
+              -427.27,
+              -246.36
+            ],
+            [
+              -428.16,
+              -255.34
+            ],
+            [
+              -432.45,
+              -254.93
+            ],
+            [
+              -431.56,
+              -245.95
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -432.45,
+      -255.34,
+      -427.27,
+      -245.95
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1050242013",
+    "tags": {
+      "building": "yes"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
+  },
+  {
+    "id": "way/1576474965",
+    "name": "Comming soon",
+    "category": "context",
+    "center": [
+      -146.66,
+      -47.59
+    ],
+    "height": 7.6,
+    "levels": 2.0,
+    "insideCampus": false,
+    "landmark": null,
+    "polygons": [
+      [
+        [
+          [
+            [
+              -158.04,
+              -30.75
+            ],
+            [
+              -156.96,
+              -35.67
+            ],
+            [
+              -137.75,
+              -33.52
+            ],
+            [
+              -138.68,
+              -27.07
+            ],
+            [
+              -122.58,
+              -24.15
+            ],
+            [
+              -117.0,
+              -56.89
+            ],
+            [
+              -133.57,
+              -59.19
+            ],
+            [
+              -134.5,
+              -52.43
+            ],
+            [
+              -153.39,
+              -55.35
+            ],
+            [
+              -149.52,
+              -66.72
+            ],
+            [
+              -167.63,
+              -71.03
+            ],
+            [
+              -170.12,
+              -70.88
+            ],
+            [
+              -176.31,
+              -33.67
+            ],
+            [
+              -158.04,
+              -30.75
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bounds": [
+      -176.31,
+      -71.03,
+      -117.0,
+      -24.15
+    ],
+    "heightBasis": "Ước lượng quy hoạch phụ cận TDMU",
+    "facadeBasis": "Đặc trưng hình khối nhà phố Phú Hòa",
+    "osmVersion": 1,
+    "osmEditedAt": "2026-09-22T00:00:00Z",
+    "sourceUrl": "https://www.openstreetmap.org/way/1576474965",
+    "tags": {
+      "building": "university",
+      "name": "Comming soon"
+    },
+    "elevation": 0.0,
+    "zone": "surroundings"
   }
 ]
